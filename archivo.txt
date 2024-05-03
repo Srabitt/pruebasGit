@@ -1,10 +1,6 @@
 kjqweoinqweponieq esto deberia estar modidificado
 Esto se esta modificado en la rama 2
 
-Esto esta en la rama principal
-Esto esta en la rama principal
-Esto esta en la rama principal
-Esto esta en la rama principal
-Esto esta en la rama principal
+He realizado estos cambios
 
 esto deberia estar en GitHub
