@@ -1,3 +1,8 @@
 kjqweoinqweponieq esto deberia estar modidificado
 Esto se esta modificado en la rama 2
+<<<<<<< HEAD
 aiuydvuwyiuasiud
+=======
+
+Esto esta en la rama principal
+>>>>>>> master
